@@ -1,0 +1,12 @@
+[09-Apr-2022 10:48:16 UTC] PHP Fatal error:  Cannot redeclare Welcome::unitlist() in /home/ht2l5govb6ea/public_html/new_medical/application/controllers/Welcome.php on line 119
+[12-Apr-2022 07:17:47 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:26 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:28 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:28 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:29 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:29 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:19:29 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 07:32:44 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 107
+[12-Apr-2022 09:01:48 UTC] PHP Fatal error:  Cannot redeclare Common_model::deleteRecords() in /home/ht2l5govb6ea/public_html/admin/application/models/Common_model.php on line 106
+[12-Apr-2022 09:33:47 UTC] PHP Fatal error:  Cannot redeclare Welcome::deletedata() in /home/ht2l5govb6ea/public_html/admin/application/controllers/Welcome.php on line 290
+[12-Apr-2022 12:36:04 UTC] PHP Fatal error:  Cannot redeclare Welcome::transationlist() in /home/ht2l5govb6ea/public_html/admin/application/controllers/Welcome.php on line 285
